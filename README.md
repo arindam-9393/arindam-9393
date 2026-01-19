@@ -7,7 +7,7 @@
   </p>
   
   <p align="center">
-     I specialize in building high-performance real-time systems using <b>Node.js</b> and <b>Socket.IO</b>. Currently running a startup (<a href="https://arivohomes.com" target="_blank"><b>Arivo Homes</b></a>) and grinding advanced DSA.
+     I specialize in building high-performance real-time systems using <b>Node.js</b> and <b>Socket.IO</b>. Founded (<a href="https://arivohomes.com" target="_blank"><b>Arivo Homes</b></a>) and grinding advanced DSA.
   </p>
 
 </div>
