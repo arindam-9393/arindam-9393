@@ -7,7 +7,7 @@
   </p>
   
   <p align="center">
-     I specialize in building high-performance real-time systems using <b>Node.js</b> and <b>Socket.IO</b>. Currently running a startup (Arivo Homes) and grinding advanced DSA.
+     I specialize in building high-performance real-time systems using <b>Node.js</b> and <b>Socket.IO</b>. Currently running a startup (<a href="https://arivohomes.com" target="_blank"><b>Arivo Homes</b></a>) and grinding advanced DSA.
   </p>
 
 </div>
@@ -65,10 +65,20 @@
 
 ### 📬 Let's Connect
 <div align="center">
+<a href="https://arindam-9393.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://leetcode.com/u/arindam-93/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+</a>
+<a href="https://www.linkedin.com/in/arindam-sengupta-5803ab260/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<br/>
 <a href="mailto:arindamsengupta93@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://linkedin.com/in/arindam-9393](https://www.linkedin.com/in/arindam-sengupta-5803ab260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BztTdEhJ%2BSeeNkxyi1ARgLQ%3D%3D)">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.instagram.com/arindam_93_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </div>
