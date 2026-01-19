@@ -1,24 +1,48 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Arindam;MERN+Stack+Developer+%F0%9F%92%BB;Founder+of+Arivo+Homes+%F0%9F%9A%80;Building+Real-time+Chess+Apps+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Arindam;MERN+Stack+Developer+%F0%9F%92%BB;Founder+of+Arivo+Homes+%F0%9F%9A%80;Building+Real-time+Chess+%26+Chat+Apps+%E2%99%9F%EF%B8%8F%F0%9F%92%AC" alt="Typing SVG" />
 
   <p align="center">
-    <b>Final-year CSE Student | Full Stack Developer | Problem Solver</b>
+    <b>Final-year CSE Student | Full Stack Developer | Entrepreneur</b>
   </p>
   
   <p align="center">
-     I love building scalable backend systems and real-time applications using <b>Node.js</b> and <b>Socket.IO</b>. Currently building a zero-brokerage platform and grinding DSA. 
+     I specialize in building high-performance real-time systems using <b>Node.js</b> and <b>Socket.IO</b>. Currently running a startup (Arivo Homes) and grinding advanced DSA.
   </p>
 
 </div>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🚀 Featured Real-Time Projects
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>♟️ Real-Time Chess</h3>
+        <p>Multiplayer chess engine with move validation.</p>
+        <p>
+          <code>Socket.IO</code> <code>Node.js</code> <code>React</code>
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>💬 Chatty (Voice/Video)</h3>
+        <p>Real-time messaging with video call capabilities.</p>
+        <p>
+          <code>WebRTC</code> <code>Socket.IO</code> <code>Express</code>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
@@ -31,17 +55,20 @@
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ Coding Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arindam-9393&show_icons=true&theme=dracula&hide_border=true" height="160" alt="Arindam's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arindam-9393&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="Arindam's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-9393&layout=compact&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 ---
 
-### 📬 Connect with me
+### 📬 Let's Connect
 <div align="center">
 <a href="mailto:arindamsengupta93@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://linkedin.com/in/arindam-9393">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </div>
