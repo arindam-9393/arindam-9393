@@ -1,35 +1,37 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Arindam;MERN+Stack+Developer+%F0%9F%92%BB;Founder+of+Arivo+Homes+%F0%9F%9A%80;Building+Real-time+Chess+%26+Chat+Apps+%E2%99%9F%EF%B8%8F%F0%9F%92%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Arindam;MERN+Stack+Developer+%F0%9F%92%BB;Strong+in+DSA+%26+Backend+%F0%9F%9A%80;Deployed+Arivo+Homes+(Live)+%F0%9F%8F%A0;Chess+Enthusiast+(1700+)+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
 
   <p align="center">
-    <b>Final-year CSE Student | Full Stack Developer | Entrepreneur</b>
+    <b>Final-year CSE Student | Full Stack Engineer | DSA Specialist</b>
   </p>
   
   <p align="center">
-     I specialize in building high-performance real-time systems using <b>Node.js</b> and <b>Socket.IO</b>. Founded (<a href="https://arivohomes.com" target="_blank"><b>Arivo Homes</b></a>) and grinding advanced DSA.
+     I specialize in building high-performance real-time systems using <b>Node.js</b> and <b>Socket.IO</b>. Currently managing (<a href="https://arivohomes.com" target="_blank"><b>Arivo Homes</b></a>), a live rental platform, and grinding advanced DSA.
   </p>
 
 </div>
 
 ---
 
-### 🚀 Featured Real-Time Projects
+### 🚀 Featured Live & Real-Time Projects
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>♟️ Real-Time Chess</h3>
-        <p>Multiplayer chess engine with move validation.</p>
+        <h3>🏠 Arivo Homes (Live)</h3>
+        <p>No-brokerage rental platform deployed in Nagpur.</p>
+        <p><i>Active: 20+ Owners | 15+ Tenants</i></p>
         <p>
-          <code>Socket.IO</code> <code>Node.js</code> <code>React</code>
+          <code>MERN Stack</code> <code>Redux</code> <code>JWT</code>
         </p>
       </td>
       <td align="center" width="50%">
-        <h3>💬 Chatty (Voice/Video)</h3>
-        <p>Real-time messaging with video call capabilities.</p>
+        <h3>♟️ Real-Time Chess</h3>
+        <p>Multiplayer chess engine with move validation.</p>
+        <p><i>Includes 3200 ELO Stockfish Bot</i></p>
         <p>
-          <code>WebRTC</code> <code>Socket.IO</code> <code>Express</code>
+          <code>Socket.IO</code> <code>Node.js</code> <code>Chess.js</code>
         </p>
       </td>
     </tr>
